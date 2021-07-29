@@ -2,20 +2,20 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 ## Project Source Codes:
-* [Hangman_Game] ()
+* [Hangman_Game](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/hangman_game/hangman.py)
   * python semantics & syntax
-* [Weather Master]()
+* [Weather Master](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
   * python semantics & syntax 
-* [Pedestrian Removing Application]()
+* [Pedestrian Removing Application](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/pedstrian_removing_application/stanCodoshop.py)
   * image processing
-* [MyDrawing]()
+* [MyDrawing](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/my_drawing/my_drawing.py)
   * python drawing
-* [Breakout Game]()
+* [Breakout Game](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/breakout_extensions.py)
   * animation & Game designing
-* [Name Popularity Searching System]()
+* [Name Popularity Searching System](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
   * data structure
-* [Boggle Game Solver]()
+* [Boggle Game Solver](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive functions 
