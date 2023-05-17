@@ -1,10 +1,10 @@
-## "stanCode" Projects
+## 📍"stanCode" Projects
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
 Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/17QS30tnjTBJO8dY4ypKPCZ1UMKRagYku)*
 
-## Project Source Codes:
+## 📍Project Source Codes:
 * [Hangman Game](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/hangman_game/hangman.py)
   * python semantics & syntax
 * [Weather Master](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
@@ -19,3 +19,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/17QS30tnjTBJO8dY
   * data structure
 * [Boggle Game Solver](https://github.com/HuaJung/MystanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive functions 
+
+
+## 📍Contact
+- Email: mspanda1026@gmail.com
